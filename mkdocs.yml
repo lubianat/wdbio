@@ -1,0 +1,15 @@
+site_name: WDBio
+site_description: Wikidata-related functions for bioinformatics
+site_author: João Cavalcante
+nav:
+  - Home: index.md
+  - Contributing: contributing.md
+  - Code of Conduct: code_of_conduct.md
+  - Reference:
+      - API: reference/api.md
+repo_url: https://github.com/jvfe/wdbio
+theme:
+  name: "readthedocs"
+plugins:
+  - search
+  - mkdocstrings
