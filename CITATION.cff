@@ -3,6 +3,6 @@ message: "If you use this software, please cite it as below."
 title: "wdbio"
 authors:
   - name: "João Cavalcante"
-version: 0.0.1-dev
+version: 0.0.1
 doi:
 url: "https://github.com/jvfe/wdbio"
