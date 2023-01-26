@@ -1,6 +1,6 @@
 site_name: WDBio
 site_description: Wikidata-related functions for bioinformatics
-site_author: João Cavalcante
+site_author: jvfe
 nav:
   - Home: index.md
   - Contributing: contributing.md
