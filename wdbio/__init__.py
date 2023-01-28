@@ -3,6 +3,6 @@
 """Wikidata-related functions for bioinformatics"""
 
 __author__ = """jvfe"""
-__version__ = "0.0.2"
+__version__ = "0.0.3-dev"
 
 from .api import *  # noqa
