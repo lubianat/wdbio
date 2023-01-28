@@ -1,3 +1,3 @@
 # API Reference
 
-::: wdbio.api.count
+::: wdbio.api.get_mitochondrial_genes
